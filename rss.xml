@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Dani Dev Blog</title>
+    <link>http://danielabar.github.io/danidev</link>
+    <description>A developers blog</description>
+    <copyright>The MIT License (MIT) Copyright (c) 2014 Daniela Baron</copyright>
+    <pubDate>Tue, 11 Mar 2014 20:09:11 -0000</pubDate>
+    <item>
+      <title>How to create a draft post in Jekyll</title>
+      <link>http://danielabar.github.io/danidev/2014/03/11/how-to-jekyll-draft.html</link>
+      <description>&lt;p&gt;Good news, Jekyll has native support for drafts, no hacks required. Just follow these steps to create and view drafts.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 11 Mar 2014 20:09:11 -0000</pubDate>
+      <guid>http://danielabar.github.io/danidev/2014/03/11/how-to-jekyll-draft.html</guid>
+      <dc:date>2014-03-11T20:09:11Z</dc:date>
+    </item>
+    <item>
+      <title>Advanced Jekyll Deployment</title>
+      <link>http://danielabar.github.io/danidev/jekyll/update/2014/03/10/advanced-jekyll-deployment.html</link>
+      <description>&lt;p&gt;The goal is to have a Jekyll blog hosted on Github, but also with Jekyll plugins enabled.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 10 Mar 2014 20:09:11 -0000</pubDate>
+      <guid>http://danielabar.github.io/danidev/jekyll/update/2014/03/10/advanced-jekyll-deployment.html</guid>
+      <dc:date>2014-03-10T20:09:11Z</dc:date>
+    </item>
+    <item>
+      <title>Test 1</title>
+      <link>http://danielabar.github.io/danidev/2014/03/09/test1.html</link>
+      <description>&lt;p&gt;This one got deployed with hack of jekyll-tools to use gh-pages instead of master branch.&lt;/p&gt;
+</description>
+      <pubDate>Sun, 09 Mar 2014 05:09:11 -0000</pubDate>
+      <guid>http://danielabar.github.io/danidev/2014/03/09/test1.html</guid>
+      <dc:date>2014-03-09T05:09:11Z</dc:date>
+    </item>
+    <dc:date>2014-03-11T20:09:11Z</dc:date>
+  </channel>
+</rss>
